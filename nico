@@ -11,6 +11,8 @@ http://vipipjpapi.top:8080/VIP0116171003240856/5f1cf406aa72/651
 http://vipipjpapi.top:8080/VIP0116171003240856/5f1cf406aa72/647
 #EXTINF:-1 tvg-id="LaSexta.es" tvg-name="ES: LA SEXTA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="ES | TOP CANALES VIP",ES: LA SEXTA
 http://vipipjpapi.top:8080/VIP0116171003240856/5f1cf406aa72/650
+#EXTINF:-1 tvg-id="ES: Directes-tv-es.3catdirectes.cat"tvg-name="ES: Directes-tv-es.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/2560px-Esport3.svg.png" group-title="ES | TOP CANALES VIP",ES: Directes tv 3cat
+https://directes-tv-es.3catdirectes.cat/live-content/esport3-hls/master.m3u8?maxres=1080
 #EXTINF:-1 tvg-id="0" tvg-name="ES: CAZA Y PESCA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CAZHD.png" group-title="ES | CULTURA VIP",ES: CAZA Y PESCA
 http://vipipjpapi.top:8080/VIP0116171003240856/5f1cf406aa72/706
 #EXTINF:-1 tvg-id="Cazavisión" tvg-name="ES: CAZAVISIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/cazavision.png" group-title="ES | CULTURA VIP",ES: CAZAVISIÓN
