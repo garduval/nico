@@ -235,20 +235,14 @@ https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/21965.ts
 https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17228586.ts
 #EXTINF:-1 tvg-id="TVG 2" tvg-name="TVG 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVG2.png" group-title="Generalistas",TVG 2
 https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/21940.ts
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="Canal 33 Madrid" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/barcatv.png" group-title="Generalistas",Canal 33 Madrid
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/21807.ts
 #EXTINF:-1 tvg-id="EITB Basque" tvg-name="EITB Basque" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ETB.png" group-title="Generalistas",EITB Basque
 https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/21971.ts
 #EXTINF:-1 tvg-id="IB3 Global" tvg-name="IB 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/IB3.png" group-title="Generalistas",IB 3
 https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/21951.ts
 #EXTINF:-1 tvg-id="TPA" tvg-name="TPA ʰᵈ (ASTURIES)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TPA.png" group-title="Generalistas",TPA ʰᵈ (ASTURIES)
 https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/21980.ts
-#EXTINF:-1 tvg-id="Navarra TV" tvg-name="Navarra TV" tvg-logo="https://mainhost.123tigres.org:2087/images/1a7d23e50fa6f38f2cb7560b11c65c11.png" group-title="Generalistas",Navarra TV
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/21903.ts
 #EXTINF:-1 tvg-id="LA7ITL" tvg-name="La 7" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYLTV.png" group-title="Generalistas",La 7
 https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/21787.ts
-#EXTINF:-1 tvg-id="La Ocho TV" tvg-name="La ocho Mediterráneo" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEDITE.png" group-title="Generalistas",La ocho Mediterráneo
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/21723.ts
 #EXTINF:-1 tvg-id="TSATOTR" tvg-name="La Otra" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/OTRA.png" group-title="Generalistas",La Otra
 https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/21891.ts
 #EXTINF:-1 tvg-id="Canal Quickie" tvg-name="Canal quickie" tvg-logo="https://media.tvup.cloud/canales/color_lg_66333d72862f8df6b7e02bbd.png" group-title="Generalistas",Canal quickie
@@ -549,8 +543,6 @@ https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/100019.ts
 https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17233024.ts
 #EXTINF:-1 tvg-id="En Familia (Rakuten TV)" tvg-name="RakutenTV En Familia" tvg-logo="https://iili.io/H89fpF2.png" group-title="Cine en M+",RakutenTV En Familia
 https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17233422.ts
-#EXTINF:-1 tvg-id="" tvg-name="RakutenTV Romanticas" tvg-logo="https://iili.io/H89fpF2.png" group-title="Cine en M+",RakutenTV Romanticas
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17233421.ts
 #EXTINF:-1 tvg-id="Thrillers (Rakuten TV)" tvg-name="RakutenTV Thrillers" tvg-logo="https://iili.io/H89fpF2.png" group-title="Cine en M+",RakutenTV Thrillers
 https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17233420.ts
 #EXTINF:-1 tvg-id="Cine Español (Rakuten TV)" tvg-name="RakutenTV Cine español" tvg-logo="https://iili.io/H89fpF2.png" group-title="Cine en M+",RakutenTV Cine español
@@ -565,8 +557,6 @@ https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17233416.ts
 https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17247742.ts
 #EXTINF:-1 tvg-id="Todo Crimen (Rakuten TV)" tvg-name="RakutenTV Estilo" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ3.png" group-title="Cine en M+",RakutenTV Estilo
 https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17247743.ts
-#EXTINF:-1 tvg-id="" tvg-name="Stormcast Novelas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ3.png" group-title="Cine en M+",Stormcast Novelas
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17247744.ts
 #EXTINF:-1 tvg-id="Runtime Cine y Series" tvg-name="Run time Cine y Series" tvg-logo="https://media.tvup.cloud/canales/color_lg_6296030832e730001aa21ad9.png" group-title="Cine en M+",Run time Cine y Series
 https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17242938.ts
 #EXTINF:-1 tvg-id="RunTime Familia" tvg-name="Run time  Familia" tvg-logo="https://media.tvup.cloud/canales/color_lg_642297c5fe71e4001bd0970d.png" group-title="Cine en M+",Run time  Familia
@@ -581,12 +571,6 @@ https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17293583.ts
 https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17242941.ts
 #EXTINF:-1 tvg-id="RunTime Clásicos" tvg-name="Run time Clasicos" tvg-logo="https://media.tvup.cloud/canales/color_lg_62d0482397f0ad0023422956.png" group-title="Cine en M+",Run time Clasicos
 https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17242942.ts
-#EXTINF:-1 tvg-id="Runtime Romance" tvg-name="Run time Romance" tvg-logo="https://media.tvup.cloud/canales/color_lg_62d0487554e537001b828bd7.png" group-title="Cine en M+",Run time Romance
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17242943.ts
-#EXTINF:-1 tvg-id="Curro Jiménez" tvg-name="RUN TIME Curro jimenez" tvg-logo="https://media.tvup.cloud/canales/color_lg_6320a20a22c53300216710b9.png" group-title="Cine en M+",RUN TIME Curro jimenez
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/100006.ts
-#EXTINF:-1 tvg-id="Ana y los 7" tvg-name="RUN TIME Ana y los 7" tvg-logo="https://media.tvup.cloud/canales/color_lg_6320a26ff8cf6500221fbcf1.png" group-title="Cine en M+",RUN TIME Ana y los 7
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/100005.ts
 #EXTINF:-1 tvg-id="Sangre Fría" tvg-name="Run time Sangre fria" tvg-logo="https://media.tvup.cloud/canales/color_lg_65d4940fb9dd5d34b151453a.png" group-title="Cine en M+",Run time Sangre fria
 https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17293593.ts
 #EXTINF:-1 tvg-id="Cines Verdi TV" tvg-name="Cines Verdi TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_65a905a6a09a899ac73f0f5e.png" group-title="Cine en M+",Cines Verdi TV
@@ -603,8 +587,6 @@ https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17293587.ts
 https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17293589.ts
 #EXTINF:-1 tvg-id="Film&Co" tvg-name="Film & CO" tvg-logo="https://media.tvup.cloud/canales/color_lg_628cdee165774400228d971f.png" group-title="Cine en M+",Film & CO
 https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17293588.ts
-#EXTINF:-1 tvg-id="M+ Musicales" tvg-name="C.Musicales ʰᵈ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MMUSIC.png" group-title="Cine en M+",C.Musicales ʰᵈ
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17289267.ts
 #EXTINF:-1 tvg-id="National Geographic HD" tvg-name="K.NATIONAL GEOGRAPHIC ᔆᴰ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" group-title="Documentales en M+",K.NATIONAL GEOGRAPHIC ᔆᴰ
 https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/249.ts
 #EXTINF:-1 tvg-id="National Geographic HD" tvg-name="VF.NATIONAL GEOGRAPHIC ᴴᴰ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" group-title="Documentales en M+",VF.NATIONAL GEOGRAPHIC ᴴᴰ
@@ -1113,8 +1095,6 @@ https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17276324.ts
 https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17311249.ts
 #EXTINF:-1 tvg-id="" tvg-name="WWE HD 24H" tvg-logo="https://iili.io/K9mvHZb.png" group-title="Deportes en M+",WWE HD 24H
 https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316197.ts
-#EXTINF:-1 tvg-id="" tvg-name="Capitanes del Mundo HD 24H" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GALAV.png" group-title="Deportes en M+",Capitanes del Mundo HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316199.ts
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR GOLF 2 SD" tvg-logo="http://megazord.click:80/images/f5f928db34ea3d7b166c6d0a5e59e340.png" group-title="Deportes en M+",MOVISTAR GOLF 2 SD
 https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17344755.ts
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR GOLF 2 HD 1080P" tvg-logo="http://megazord.click:80/images/f5f928db34ea3d7b166c6d0a5e59e340.png" group-title="Deportes en M+",MOVISTAR GOLF 2 HD 1080P
@@ -1267,106 +1247,6 @@ https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17232671.ts
 https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17232672.ts
 #EXTINF:-1 tvg-id="" tvg-name="Superbikes Carrera" tvg-logo="https://iili.io/HviorQt.png" group-title="Motor 24/7",Superbikes Carrera
 https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17232673.ts
-#EXTINF:-1 tvg-id="" tvg-name="Crimen""ES: 9-1-1 24H HD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Crimen""ES: 9-1-1 24H HD
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316142.ts
-#EXTINF:-1 tvg-id="" tvg-name="Crimen""ES: Amor diabólico HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Crimen""ES: Amor diabólico HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316143.ts
-#EXTINF:-1 tvg-id="" tvg-name="Crimen""ES: Castle HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Crimen""ES: Castle HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316144.ts
-#EXTINF:-1 tvg-id="" tvg-name="Crimen""ES: Crimenes en la Red HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Crimen""ES: Crimenes en la Red HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316145.ts
-#EXTINF:-1 tvg-id="" tvg-name="Crimen""ES: CSI Las Vegas HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Crimen""ES: CSI Las Vegas HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316146.ts
-#EXTINF:-1 tvg-id="" tvg-name="Crimen""ES: El Caso HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Crimen""ES: El Caso HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316147.ts
-#EXTINF:-1 tvg-id="" tvg-name="Crimen""ES: FBI HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Crimen""ES: FBI HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316148.ts
-#EXTINF:-1 tvg-id="" tvg-name="Crimen""ES: La Revista People Investiga HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Crimen""ES: La Revista People Investiga HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316149.ts
-#EXTINF:-1 tvg-id="" tvg-name="Crimen""ES: La Revista People Investiga Las Sectas HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Crimen""ES: La Revista People Investiga Las Sectas HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316150.ts
-#EXTINF:-1 tvg-id="" tvg-name="Crimen""ES: Los Peores Compañeros del Mundo HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Crimen""ES: Los Peores Compañeros del Mundo HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316151.ts
-#EXTINF:-1 tvg-id="" tvg-name="Crimen""ES: Mindhunter HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Crimen""ES: Mindhunter HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316152.ts
-#EXTINF:-1 tvg-id="" tvg-name="Crimen""ES: Misterios sin Resolver 24H HD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Crimen""ES: Misterios sin Resolver 24H HD
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316153.ts
-#EXTINF:-1 tvg-id="" tvg-name="Crimen""ES: NCIS Los Angeles HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Crimen""ES: NCIS Los Angeles HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316154.ts
-#EXTINF:-1 tvg-id="" tvg-name="Crimen""ES: NCIS Navy Investigación Criminal) HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Crimen""ES: NCIS Navy Investigación Criminal) HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316155.ts
-#EXTINF:-1 tvg-id="" tvg-name="Crimen""ES: NCIS Nueva Orleans HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Crimen""ES: NCIS Nueva Orleans HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316156.ts
-#EXTINF:-1 tvg-id="" tvg-name="Accion""ES: El juego del Calamar HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Accion""ES: El juego del Calamar HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316157.ts
-#EXTINF:-1 tvg-id="" tvg-name="Accion""ES: El Juego del Calamar Reality Show 24H HD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Accion""ES: El Juego del Calamar Reality Show 24H HD
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316158.ts
-#EXTINF:-1 tvg-id="" tvg-name="Accion""ES: Entrevias HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Accion""ES: Entrevias HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316159.ts
-#EXTINF:-1 tvg-id="" tvg-name="Accion""ES: La Casa de Papel 24H HD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Accion""ES: La Casa de Papel 24H HD
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316160.ts
-#EXTINF:-1 tvg-id="" tvg-name="Accion""ES: La Casa de Papel Berlin 24H HD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Accion""ES: La Casa de Papel Berlin 24H HD
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316161.ts
-#EXTINF:-1 tvg-id="" tvg-name="Accion""ES: La Casa de Papel Korea 24H HD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Accion""ES: La Casa de Papel Korea 24H HD
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316162.ts
-#EXTINF:-1 tvg-id="" tvg-name="Accion""ES: La Purga HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Accion""ES: La Purga HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316163.ts
-#EXTINF:-1 tvg-id="" tvg-name="Accion""ES: Peaky Blinders 24H HD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Accion""ES: Peaky Blinders 24H HD
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316164.ts
-#EXTINF:-1 tvg-id="" tvg-name="Comedia""ES: Aqui No Hay Quien Viva 24H HD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Comedia""ES: Aqui No Hay Quien Viva 24H HD
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316165.ts
-#EXTINF:-1 tvg-id="" tvg-name="Comedia""ES: El Club 24H HD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Comedia""ES: El Club 24H HD
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316166.ts
-#EXTINF:-1 tvg-id="" tvg-name="Comedia""ES: El Principe de Bel Air HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Comedia""ES: El Principe de Bel Air HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316167.ts
-#EXTINF:-1 tvg-id="" tvg-name="Comedia""ES: La Que se Avecina 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Comedia""ES: La Que se Avecina 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316168.ts
-#EXTINF:-1 tvg-id="" tvg-name="Comedia""ES: Malcolm el de en medio 24H HD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Comedia""ES: Malcolm el de en medio 24H HD
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316169.ts
-#EXTINF:-1 tvg-id="" tvg-name="Comedia""ES: Merlina HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Comedia""ES: Merlina HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316170.ts
-#EXTINF:-1 tvg-id="" tvg-name="Comedia""ES: Pippi Calzaslargas 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Comedia""ES: Pippi Calzaslargas 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316171.ts
-#EXTINF:-1 tvg-id="" tvg-name="Documentales / Guerras / Tecnologias""ES: Acierta o Muere HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Documentales / Guerras / Tecnologias""ES: Acierta o Muere HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316172.ts
-#EXTINF:-1 tvg-id="" tvg-name="Documentales / Guerras / Tecnologias""ES: Titanes de la Ingenieria HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Documentales / Guerras / Tecnologias""ES: Titanes de la Ingenieria HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316173.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sci-Fi""ES: Expedientes X SD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Sci-Fi""ES: Expedientes X SD
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316174.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sci-Fi""ES: Fallout HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Sci-Fi""ES: Fallout HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316175.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sci-Fi""ES: Loki 24H HD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Sci-Fi""ES: Loki 24H HD
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316176.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sci-Fi""ES: Los Anillos de Poder HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Sci-Fi""ES: Los Anillos de Poder HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316177.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sci-Fi""ES: Resident Evil 24H HD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Sci-Fi""ES: Resident Evil 24H HD
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316178.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sci-Fi""ES: Stranger Things HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Sci-Fi""ES: Stranger Things HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316179.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sci-Fi""ES: The Boys HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Sci-Fi""ES: The Boys HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316180.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sci-Fi""ES: Una Serie de Eventos Desafortunados HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Sci-Fi""ES: Una Serie de Eventos Desafortunados HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316181.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sci-Fi""ES: Willow 24H HD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Sci-Fi""ES: Willow 24H HD
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316182.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sci-Fi""ES: Xena La Princesa Guerrera 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Sci-Fi""ES: Xena La Princesa Guerrera 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316183.ts
-#EXTINF:-1 tvg-id="" tvg-name="Terror""ES: Alienigenas en Alaska HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Terror""ES: Alienigenas en Alaska HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316184.ts
-#EXTINF:-1 tvg-id="" tvg-name="Terror""ES: Black Summer HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Terror""ES: Black Summer HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316185.ts
-#EXTINF:-1 tvg-id="" tvg-name="Terror""ES: Buscadores de fantasmas HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Terror""ES: Buscadores de fantasmas HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316186.ts
-#EXTINF:-1 tvg-id="" tvg-name="Terror""ES: Cuando los muertos hablan HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Terror""ES: Cuando los muertos hablan HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316187.ts
-#EXTINF:-1 tvg-id="" tvg-name="Terror""ES: Cuarto Milenio HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Terror""ES: Cuarto Milenio HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316188.ts
-#EXTINF:-1 tvg-id="" tvg-name="Terror""ES: Destino Terror HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Terror""ES: Destino Terror HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316189.ts
-#EXTINF:-1 tvg-id="" tvg-name="Terror""ES: Estamos Muertos HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Terror""ES: Estamos Muertos HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316190.ts
-#EXTINF:-1 tvg-id="" tvg-name="Terror""ES: Expedición X HD 24H" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Bibloteca 24/7",Terror""ES: Expedición X HD 24H
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316191.ts
 #EXTINF:-1 tvg-id="" tvg-name="La Liga 01: Levante 16:00 Real Betis 29/08" tvg-logo="http://xplatinmedia.com:8080/images/ce171747005b5ac6477921ddccfd44eb.png" group-title="Eventos: La liga española⚽",La Liga 01: Levante 16:00 Real Betis 29/08
 https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316313.ts
 #EXTINF:-1 tvg-id="" tvg-name="La Liga 02: Real Sociedad 18:00 Espanyol 29/08" tvg-logo="http://xplatinmedia.com:8080/images/ce171747005b5ac6477921ddccfd44eb.png" group-title="Eventos: La liga española⚽",La Liga 02: Real Sociedad 18:00 Espanyol 29/08
@@ -1387,68 +1267,6 @@ https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316320.ts
 https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316321.ts
 #EXTINF:-1 tvg-id="" tvg-name="La Liga 10:" tvg-logo="http://xplatinmedia.com:8080/images/ce171747005b5ac6477921ddccfd44eb.png" group-title="Eventos: La liga española⚽",La Liga 10:
 https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316322.ts
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="Infantil Info" tvg-logo="https://iili.io/HFpeptV.png" group-title="Top películas Infantiles 24/7",Infantil Info
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/100460.ts
-#EXTINF:-1 tvg-id="" tvg-name="Infantil 1" tvg-logo="https://iili.io/HFpeptV.png" group-title="Top películas Infantiles 24/7",Infantil 1
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/100461.ts
-#EXTINF:-1 tvg-id="" tvg-name="Infantil 2" tvg-logo="https://iili.io/HFpeptV.png" group-title="Top películas Infantiles 24/7",Infantil 2
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/100462.ts
-#EXTINF:-1 tvg-id="" tvg-name="Infantil 3" tvg-logo="https://iili.io/HFpeptV.png" group-title="Top películas Infantiles 24/7",Infantil 3
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/100463.ts
-#EXTINF:-1 tvg-id="" tvg-name="Infantil 4" tvg-logo="https://iili.io/HFpeptV.png" group-title="Top películas Infantiles 24/7",Infantil 4
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/100464.ts
-#EXTINF:-1 tvg-id="" tvg-name="Infantil 5" tvg-logo="https://iili.io/HFpeptV.png" group-title="Top películas Infantiles 24/7",Infantil 5
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/100465.ts
-#EXTINF:-1 tvg-id="" tvg-name="Infantil 6" tvg-logo="https://iili.io/HFpeptV.png" group-title="Top películas Infantiles 24/7",Infantil 6
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/100466.ts
-#EXTINF:-1 tvg-id="" tvg-name="Infantil 7" tvg-logo="https://iili.io/HFpeptV.png" group-title="Top películas Infantiles 24/7",Infantil 7
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/100467.ts
-#EXTINF:-1 tvg-id="" tvg-name="Infantil 8" tvg-logo="https://iili.io/HFpeptV.png" group-title="Top películas Infantiles 24/7",Infantil 8
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/100468.ts
-#EXTINF:-1 tvg-id="" tvg-name="Infantil 9" tvg-logo="https://iili.io/HFpeptV.png" group-title="Top películas Infantiles 24/7",Infantil 9
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/100469.ts
-#EXTINF:-1 tvg-id="" tvg-name="Infantil 10" tvg-logo="https://iili.io/HFpeptV.png" group-title="Top películas Infantiles 24/7",Infantil 10
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/100470.ts
-#EXTINF:-1 tvg-id="" tvg-name="Infantil 11" tvg-logo="https://iili.io/HFpeptV.png" group-title="Top películas Infantiles 24/7",Infantil 11
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/100471.ts
-#EXTINF:-1 tvg-id="" tvg-name="Infantil 12" tvg-logo="https://iili.io/HFpeptV.png" group-title="Top películas Infantiles 24/7",Infantil 12
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/100472.ts
-#EXTINF:-1 tvg-id="" tvg-name="Infantil 13" tvg-logo="https://iili.io/HFpeptV.png" group-title="Top películas Infantiles 24/7",Infantil 13
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/100026.ts
-#EXTINF:-1 tvg-id="" tvg-name="Infantil 14" tvg-logo="https://iili.io/HFpeptV.png" group-title="Top películas Infantiles 24/7",Infantil 14
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/100027.ts
-#EXTINF:-1 tvg-id="" tvg-name="Infantil 15" tvg-logo="https://iili.io/HFpeptV.png" group-title="Top películas Infantiles 24/7",Infantil 15
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/100028.ts
-#EXTINF:-1 tvg-id="" tvg-name="Infantil 16" tvg-logo="https://iili.io/HFpeptV.png" group-title="Top películas Infantiles 24/7",Infantil 16
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/100029.ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Acción FHD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Netflix 24/7",Netflix Acción FHD
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316083.ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedia FHD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Netflix 24/7",Netflix Comedia FHD
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316084.ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Fantasia FHD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Netflix 24/7",Netflix Fantasia FHD
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316085.ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Fiestas Navideñas FHD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Netflix 24/7",Netflix Fiestas Navideñas FHD
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316086.ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Sci-Fi FHD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Netflix 24/7",Netflix Sci-Fi FHD
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316087.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nicolas Cage FHD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Netflix 24/7",Nicolas Cage FHD
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316088.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nicole Kidman FHD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Netflix 24/7",Nicole Kidman FHD
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316089.ts
-#EXTINF:-1 tvg-id="" tvg-name="Richard Gere FHD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Netflix 24/7",Richard Gere FHD
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316090.ts
-#EXTINF:-1 tvg-id="" tvg-name="Robert de Niro FHD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Netflix 24/7",Robert de Niro FHD
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316091.ts
-#EXTINF:-1 tvg-id="" tvg-name="Robert Redford FHD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Netflix 24/7",Robert Redford FHD
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316092.ts
-#EXTINF:-1 tvg-id="" tvg-name="Robin Williams FHD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Netflix 24/7",Robin Williams FHD
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316093.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sean Connery FHD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Netflix 24/7",Sean Connery FHD
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316094.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tom Cruise FHD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Netflix 24/7",Tom Cruise FHD
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316095.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tom Hanks FHD" tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="Netflix 24/7",Tom Hanks FHD
-https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17316096.ts
 #EXTINF:-1 tvg-id="La 1 HD" tvg-name="Deportes 2 por M+ᔆᴰ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="España (Conexion lenta)",Deportes 2 por M+ᔆᴰ
 https://mainhost.123tigres.org:2087/JuanBlazquez/zpqQGLhDlZ/17209530.ts
 #EXTINF:-1 tvg-id="La 1 HD" tvg-name="K.LA 1 ᔆᴰ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="España (Conexion lenta)",K.LA 1 ᔆᴰ
