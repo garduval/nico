@@ -179,6 +179,10 @@ http://neosfpoo.top:8080/401698088174121/71702623872831/58320
 http://neosfpoo.top:8080/401698088174121/71702623872831/58321
 #EXTINF:-1 tvg-id="" tvg-name="CH10" tvg-logo="" group-title="PPV",CH10
 http://neosfpoo.top:8080/401698088174121/71702623872831/58322
+#EXTINF:-1 tvg-id="Factoria de Ficcion" tvg-name="ES: FACTORÍA DE FICCIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Factoria_de_Ficcion.png" group-title="ES | GENERAL",ES: FACTORÍA DE FICCIÓN
+http://neosfpoo.top:8080/401698088174121/71702623872831/5611
+#EXTINF:-1 tvg-id="Nova.es" tvg-name="ES: NOVA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nova.png" group-title="ES | GENERAL",ES: NOVA
+http://neosfpoo.top:8080/401698088174121/71702623872831/5723
 #EXTINF:-1,ES: AMC WESTERN FHD
 http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/77219
 #EXTINF:-1,ES: AMC WESTERN HD
@@ -193,10 +197,6 @@ http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/76587
 http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/77178
 #EXTINF:-1,ES: SQUIREEL 2
 http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/76895
-#EXTINF:-1 tvg-id="Factoria de Ficcion" tvg-name="ES: FACTORÍA DE FICCIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Factoria_de_Ficcion.png" group-title="ES | GENERAL",ES: FACTORÍA DE FICCIÓN
-http://neosfpoo.top:8080/401698088174121/71702623872831/5611
-#EXTINF:-1 tvg-id="Nova.es" tvg-name="ES: NOVA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nova.png" group-title="ES | GENERAL",ES: NOVA
-http://neosfpoo.top:8080/401698088174121/71702623872831/5723
 #EXTINF:-1 tvg-id="Energy.es" tvg-name="ES: ENERGY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Energy.png" group-title="ES | GENERAL",ES: ENERGY
 http://neosfpoo.top:8080/401698088174121/71702623872831/5603
 #EXTINF:-1 tvg-id="TRECE" tvg-name="ES: TRECE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TRECE.png" group-title="ES | GENERAL",ES: TRECE
@@ -281,8 +281,6 @@ http://neosfpoo.top:8080/401698088174121/71702623872831/5715
 http://neosfpoo.top:8080/401698088174121/71702623872831/5718
 #EXTINF:-1 tvg-id="Odisea.es" tvg-name="ES: ODISEA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Odisea.png" group-title="ES | CULTURA",ES: ODISEA
 http://neosfpoo.top:8080/401698088174121/71702623872831/5724
-#EXTINF:-1 tvg-id="Enfamilia" tvg-name="ES: ENFAMILIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Enfamilia.png" group-title="ES | NINOS",ES: ENFAMILIA
-http://neosfpoo.top:8080/401698088174121/71702623872831/5726
 #EXTINF:-1 tvg-id="Sundance.es" tvg-name="ES: SUNDANCE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Sundance.png" group-title="ES | ENTRETENIMIENTO",ES: SUNDANCE
 http://neosfpoo.top:8080/401698088174121/71702623872831/5731
 #EXTINF:-1 tvg-id="Scifi.sp" tvg-name="ES: SYFY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/SYFY.png" group-title="ES | ENTRETENIMIENTO",ES: SYFY
